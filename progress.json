@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:11:48.475Z",
+  "generated_at": "2026-09-29T14:11:50.191Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -10,7 +10,7 @@
       "url": "https://www.deep-ml.com/math-problems/32",
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-09-20T18:50:11.037Z",
-      "last_pushed_at": "2026-09-20T18:50:11.037Z"
+      "last_pushed_at": "2026-09-29T14:11:50.190Z"
     },
     "math:24": {
       "kind": "math",
@@ -21,7 +21,7 @@
       "url": "https://www.deep-ml.com/math-problems/24",
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-09-20T19:03:25.751Z",
-      "last_pushed_at": "2026-09-20T19:03:25.751Z"
+      "last_pushed_at": "2026-09-29T14:11:50.190Z"
     },
     "math:38": {
       "kind": "math",
@@ -32,7 +32,7 @@
       "url": "https://www.deep-ml.com/math-problems/38",
       "path": "math/0038-log-likelihood-gradients",
       "first_solved_at": "2026-09-29T14:00:06.997Z",
-      "last_pushed_at": "2026-09-29T14:00:06.997Z"
+      "last_pushed_at": "2026-09-29T14:11:50.190Z"
     },
     "problem:23": {
       "kind": "problem",
