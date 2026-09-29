@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:11:46.003Z",
+  "generated_at": "2026-09-29T14:11:48.475Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -22,6 +22,30 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-09-20T19:03:25.751Z",
       "last_pushed_at": "2026-09-20T19:03:25.751Z"
+    },
+    "math:38": {
+      "kind": "math",
+      "id": "38",
+      "title": "Log-Likelihood Gradients",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/38",
+      "path": "math/0038-log-likelihood-gradients",
+      "first_solved_at": "2026-09-29T14:00:06.997Z",
+      "last_pushed_at": "2026-09-29T14:00:06.997Z"
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-09-29T14:10:34.969Z",
+      "last_pushed_at": "2026-09-29T14:10:34.969Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }

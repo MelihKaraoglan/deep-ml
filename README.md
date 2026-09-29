@@ -2,17 +2,24 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**2** solved · 0 problems · 0 labs · 2 math
+**4** solved · 1 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
 [**Browse the interactive portfolio**](https://MelihKaraoglan.github.io/deep-ml/) to replay this filling in over time.
+
+## Problems
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-29 | [solution](problems/0023-softmax-activation-function-implementation) |
 
 ## Math
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-09-20 | [solution](math/0024-information-theory-entropy) |
+| [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-09-29 | [solution](math/0038-log-likelihood-gradients) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-20 | [solution](math/0032-softmax-and-cross-entropy) |
 
 ---
